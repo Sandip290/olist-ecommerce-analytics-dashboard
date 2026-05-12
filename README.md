@@ -32,10 +32,10 @@ The project focuses on business intelligence, operational analytics, KPI trackin
 
 # Dataset
 
-Dataset Used:
+### Dataset Used
 - Olist Brazilian Ecommerce Public Dataset
 
-Dataset includes:
+### Dataset Includes
 - Customers
 - Orders
 - Order Items
@@ -175,6 +175,7 @@ olist-ecommerce-analytics-dashboard/
 ├── Database Queries/
 ├── archive/
 ├── project assets/
+│   └── Images/
 ```
 
 ---
@@ -182,7 +183,47 @@ olist-ecommerce-analytics-dashboard/
 # Dashboard Preview
 
 ## Executive Overview
-![Overview Dashboard](project%20assets/image.png)
+![Overview Dashboard](project%20assets/Images/Overview.png)
+
+---
+
+## Sales Trends
+![Sales Trends](project%20assets/Images/Sales%20Trends.png)
+
+---
+
+## Category & Products
+![Category & Products](project%20assets/Images/Category&Products.png)
+
+---
+
+## Customer Analytics
+![Customers](project%20assets/Images/Customers.png)
+
+---
+
+## Delivery & Logistics
+![Delivery & Logistics](project%20assets/Images/Delivery&Logistics.png)
+
+---
+
+## Reviews Dashboard
+![Reviews](project%20assets/Images/Reviews.png)
+
+---
+
+## Payment Analytics
+![Payments](project%20assets/Images/Payments.png)
+
+---
+
+## Seller Analytics
+![Seller](project%20assets/Images/Seller.png)
+
+---
+
+## Drillthrough Analysis
+![Drill Through](project%20assets/Images/Drill%20Through.png)
 
 ---
 
